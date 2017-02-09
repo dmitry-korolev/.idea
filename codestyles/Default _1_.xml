@@ -1,5 +1,8 @@
 <code_scheme name="Default (1)">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <ECMA4CodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </ECMA4CodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
