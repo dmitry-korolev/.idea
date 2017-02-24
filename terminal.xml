@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\cygwin64\bin\sh.exe&quot; --login -i" />
+    <option name="myShellPath" value="&quot;C:\cygwin64\bin\bash.exe&quot; --login" />
   </component>
 </application>
