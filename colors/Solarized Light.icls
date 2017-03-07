@@ -1,6 +1,6 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2017-03-07T17:19:48</property>
+    <property name="modified">2017-03-07T17:45:56</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -10,7 +10,6 @@
     <option name="EDITOR_FONT_NAME" value="Lucida Sans Typewriter" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
