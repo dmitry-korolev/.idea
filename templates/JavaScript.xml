@@ -1,3 +1,3 @@
 <templateSet group="JavaScript">
-  <template name="cl" value="console.log(e);" toReformat="false" toShortenFQNames="true" />
+  <template name="cl" value="console.log(e);" description="" toReformat="false" toShortenFQNames="true" />
 </templateSet>
