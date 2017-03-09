@@ -16,7 +16,11 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </ECMA4CodeStyleSettings>
   <JSCodeStyleSettings>
-    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
@@ -48,6 +52,9 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
