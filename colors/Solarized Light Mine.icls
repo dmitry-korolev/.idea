@@ -1,7 +1,11 @@
-<scheme name="Solarized Light" version="142" parent_scheme="Default">
+<scheme name="Solarized Light Mine" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
+    <property name="created">2017-04-09T01:10:28</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2017.1.0.0</property>
     <property name="modified">2017-04-09T01:12:32</property>
+    <property name="originalScheme">Solarized Light copy</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -21,11 +25,11 @@
     <option name="INDENT_GUIDE" value="ece7d5" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
     <option name="METHOD_SEPARATORS_COLOR" value="fdf6e3" />
-    <option name="SELECTED_INDENT_GUIDE" value="596d73" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ece7d5" />
+    <option name="SELECTED_INDENT_GUIDE" value="ffffff" />
+    <option name="SELECTED_TEARLINE_COLOR" value="ec32" />
     <option name="SELECTION_BACKGROUND" value="ece7d5" />
     <option name="SELECTION_FOREGROUND" value="596d73" />
-    <option name="TEARLINE_COLOR" value="e0e0e0" />
+    <option name="TEARLINE_COLOR" value="fd083d" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
