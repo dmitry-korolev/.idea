@@ -14,6 +14,10 @@
           <option name="url" value="https://d.a.korolev@stash.tcsbank.ru/scm/prc/atm-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dmitry-korolev/mdj.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects" />
