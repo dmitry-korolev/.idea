@@ -1,11 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
       <blacklist language="PHP">
         <added pattern="\error_log(message,message_type,destination,extra_headers)" />
       </blacklist>
     </blacklists>
-    <option id="js.show.names.for.all.args" value="true" />
   </component>
 </application>
