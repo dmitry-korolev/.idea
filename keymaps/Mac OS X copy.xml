@@ -18,6 +18,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
@@ -28,9 +31,7 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="ParameterInfo" />
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
+  <action id="ReplaceInPath" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
