@@ -24,6 +24,7 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
+  <action id="InsertLiveTemplate" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
@@ -35,4 +36,11 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="Vcs.Push" />
 </keymap>
