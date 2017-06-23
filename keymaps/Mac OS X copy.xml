@@ -42,5 +42,4 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
-  <action id="Vcs.Push" />
 </keymap>
