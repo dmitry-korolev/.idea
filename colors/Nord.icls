@@ -473,7 +473,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="697387" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -504,7 +504,7 @@
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="697387" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -592,7 +592,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="697387" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
