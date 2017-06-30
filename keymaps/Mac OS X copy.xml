@@ -3,13 +3,18 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Diff.SelectedChange" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
@@ -39,7 +44,13 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="SendEOF" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
