@@ -11,8 +11,6 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.SelectedChange" />
-  <action id="Diff.ShowDiff" />
-  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
@@ -46,11 +44,12 @@
   </action>
   <action id="SendEOF" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="hg4idea.QFold" />
   <action id="openAssertEqualsDiff" />
 </keymap>
