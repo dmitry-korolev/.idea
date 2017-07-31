@@ -1,3 +1,15 @@
 <templateSet group="JavaScript">
   <template name="cl" value="console.log(e);" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="react" value="import React from 'react'" description="import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="reactp" value="import React, { PureComponent } from 'react'" description="import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
