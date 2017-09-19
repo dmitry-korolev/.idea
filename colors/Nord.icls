@@ -1,6 +1,4 @@
 <scheme name="Nord" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
