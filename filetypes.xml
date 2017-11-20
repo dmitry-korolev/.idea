@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
       <mapping pattern="112" type="PLAIN_TEXT" />
       <mapping pattern="con" type="PLAIN_TEXT" />
