@@ -11,6 +11,7 @@
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
+      <mapping ext="t" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
