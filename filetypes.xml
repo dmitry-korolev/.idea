@@ -8,6 +8,7 @@
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
       <mapping pattern="112" type="PLAIN_TEXT" />
       <mapping pattern="con" type="PLAIN_TEXT" />
+      <mapping pattern="bots" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
