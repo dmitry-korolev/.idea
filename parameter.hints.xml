@@ -1,6 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript" />
       <blacklist language="PHP">
         <added pattern="\error_log(message,message_type,destination,extra_headers)" />
       </blacklist>
