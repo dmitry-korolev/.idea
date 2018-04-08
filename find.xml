@@ -3,41 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.json</mask>
-      <mask>**.json</mask>
-      <mask>*/**/*.json</mask>
-      <mask>*/***.json</mask>
-      <mask>*/**.json</mask>
-      <mask>*/*.json</mask>
-      <mask>*/_*.json</mask>
-      <mask>*/__*.json</mask>
-      <mask>*/__te*.json</mask>
-      <mask>*/__tes*.json</mask>
-      <mask>*/__test*.json</mask>
-      <mask>*/__test_t*.json</mask>
-      <mask>*/__test_*.json</mask>
-      <mask>*/__test__*.json</mask>
-      <mask>*/__test__/*.json</mask>
-      <mask>*/__test__/*.jso</mask>
-      <mask>*/__test__/*.j</mask>
-      <mask>*/__test__/*.js</mask>
-      <mask>**/__test__/*.js</mask>
-      <mask>*/*/__test__/*.js</mask>
-      <mask>*/**/__test__/*.js</mask>
-      <mask>*/*/*.js</mask>
-      <mask>/*.js</mask>
-      <mask>*.js</mask>
-      <mask>*.*.js</mask>
-      <mask>**.js</mask>
-      <mask>*/*.js</mask>
-      <mask>*/**.js</mask>
-      <mask>*/***.js</mask>
-      <mask>*/**/*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
