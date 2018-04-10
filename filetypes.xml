@@ -7,6 +7,7 @@
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
