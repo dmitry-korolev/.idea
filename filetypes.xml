@@ -12,7 +12,6 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="bots" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="createEffectsMiddleware" type="TypeScript" />
