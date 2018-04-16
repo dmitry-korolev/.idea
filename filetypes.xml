@@ -16,6 +16,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping pattern="createEffectsMiddleware" type="TypeScript" />
     </extensionMap>
   </component>
