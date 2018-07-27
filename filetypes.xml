@@ -5,6 +5,7 @@
       <mapping pattern="module" type="JavaScript" />
       <mapping pattern="112" type="PLAIN_TEXT" />
       <mapping pattern="con" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
@@ -13,6 +14,7 @@
       <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="bots" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
