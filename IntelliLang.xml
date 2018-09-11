@@ -1,9 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="JavaScript" injector-id="js">
-      <display-name>JS Code block</display-name>
-      <value-pattern>&lt;code class=&quot;language-js&quot;&gt;&lt;!--(.*)--&gt;</value-pattern>
-      <single-file />
-    </injection>
-  </component>
-</application>
