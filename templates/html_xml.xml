@@ -1,5 +1,5 @@
 <templateSet group="html/xml">
-  <template name="slide" value="&lt;section data-title=&quot;$TITLE$&quot;&gt;&#10;  $SELECTION$&#10;  &lt;pre class=&quot;code-large&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;!--&#10;    &#10;  --&gt;&lt;/code&gt;&lt;/pre&gt;&#10;      &#10;  &lt;aside class=&quot;notes&quot; data-note-markdown&gt;&#10;    &#10;  &lt;/aside&gt;&#10;&lt;/section&gt;" shortcut="TAB" description="Add reveal slide" toReformat="true" toShortenFQNames="true">
+  <template name="slide" value="&lt;section data-title=&quot;$TITLE$&quot;&gt;&#10;  $SELECTION$&#10;  &lt;pre class=&quot;code--large&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;!--&#10;    &#10;  --&gt;&lt;/code&gt;&lt;/pre&gt;&#10;      &#10;  &lt;aside class=&quot;notes&quot; data-note-markdown&gt;&#10;    &#10;  &lt;/aside&gt;&#10;&lt;/section&gt;" shortcut="TAB" description="Add reveal slide" toReformat="true" toShortenFQNames="true">
     <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
