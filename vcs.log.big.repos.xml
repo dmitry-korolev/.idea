@@ -1,9 +1,0 @@
-<application>
-  <component name="Vcs.Log.Big.Repositories">
-    <option name="REPOSITORIES">
-      <repository path="$USER_HOME$/Projects/tinkoff-portal-web" />
-      <repository path="$USER_HOME$/Projects/tpw" />
-      <repository path="E:/Projects/tinkoff-portal-web" />
-    </option>
-  </component>
-</application>
