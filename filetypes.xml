@@ -6,6 +6,7 @@
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="112" type="PLAIN_TEXT" />
       <mapping pattern="con" type="PLAIN_TEXT" />
+      <mapping pattern="atest" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
