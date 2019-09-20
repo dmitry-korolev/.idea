@@ -6,32 +6,31 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="module" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="con" type="PLAIN_TEXT" />
-      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
-      <mapping pattern="atest" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="bots" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
+      <mapping pattern="con" type="PLAIN_TEXT" />
+      <mapping pattern="112" type="PLAIN_TEXT" />
+      <mapping pattern="atest" type="PLAIN_TEXT" />
+      <mapping pattern="teams" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelint" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
+      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="bots" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="112" type="PLAIN_TEXT" />
-      <mapping pattern="teams" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelint" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="webp" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="composeRP" type="TypeScript" />
       <mapping pattern="createEffectsMiddleware" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
