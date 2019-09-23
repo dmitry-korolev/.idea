@@ -22,6 +22,7 @@
       <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern="bots" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping ext="webp" type="PLAIN_TEXT" />
