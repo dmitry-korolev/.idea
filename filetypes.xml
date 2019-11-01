@@ -10,13 +10,13 @@
       <mapping pattern="con" type="PLAIN_TEXT" />
       <mapping pattern="112" type="PLAIN_TEXT" />
       <mapping pattern="atest" type="PLAIN_TEXT" />
+      <mapping pattern="teams" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
-      <mapping pattern="teams" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
